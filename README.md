@@ -5,6 +5,8 @@ Based on "MonicaHQ - Personal CRM. Remember everything about your friends, famil
 
 Based on "MonicaHQ" at https://app.monicahq.com/ Sign-in with wvanheemstra@icloud.com
 
+Based on "MonicaHQ in Docker" at https://github.com/monicahq/docker
+
 Based on "OfficeLife" at https://www.officelife.io/
 
-Based on "MonicaHQ in Docker" at https://github.com/monicahq/docker
+Based on "OfficeLife" at https://github.com/officelifehq/officelife
